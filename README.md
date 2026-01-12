@@ -19,8 +19,8 @@ The layout, styling, and content of the original Food Blog were preserved exactl
 ## How to Run the Application
 1. Clone the repository
 2. Navigate to the project directory
-3. Install dependencies:
-4. Start the server:
+3. Install dependencies:npm install
+4. Start the server:npm start
 5. Open a browser and go to: http://localhost:3000
 
 ## Notes
